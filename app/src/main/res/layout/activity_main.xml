@@ -4,6 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
 
+    android:background="#781F1F"
+    android:backgroundTint="#600F0F"
     tools:context=".MainActivity">
 
     <TextView
